@@ -1,6 +1,7 @@
 ## Daniel Martínez
 
 ![Audi](https://github.com/user-attachments/assets/637c83a7-f416-4f56-88cc-90f33ac0a48f)
+<img src="C:\Daniel Audi.png" alt="Descripción de la imagen" width="100" />
 
 
 ## Sobre mí
