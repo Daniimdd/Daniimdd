@@ -1,5 +1,8 @@
 ## Daniel Martínez
 
+![IMG_1884](https://github.com/user-attachments/assets/637c83a7-f416-4f56-88cc-90f33ac0a48f)
+
+
 ## Sobre mí
 
 ¡Hola! Soy Daniel Martínez,un chico joven que busca superarse día a día y aprender cosas nuevas.
@@ -14,16 +17,8 @@ Superar el Ciclo de Grado Superior DAW y poder trabajar en remoto en alguna empr
 
 ## Contacto
 
-[Gmail]: dmhiges@gmail.com
+Correo electrónico: dmhiges@gmail.com
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
