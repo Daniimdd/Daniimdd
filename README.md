@@ -1,7 +1,6 @@
 ## Daniel Martínez
 
-<img src="C:\Daniel/Audi.png" alt="Este es mi coche" style="width: 300px;" />
-
+<img src="Daniel/Audi.png" alt="Mi coche;)" style="width: 200px;" />
 
 ## Sobre mí
 
