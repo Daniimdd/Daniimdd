@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Daniimdd/Daniimdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+¡Hola! Soy Daniel Martínez,un chico agradable que busca superarse día a día y superar esta nueva etapa cursando ciclo de Grado Superior.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
