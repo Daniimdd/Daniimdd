@@ -1,7 +1,6 @@
 ## Daniel Martínez
 
-![Audi](https://github.com/user-attachments/assets/637c83a7-f416-4f56-88cc-90f33ac0a48f)
-<img src="C:\Daniel Audi.png" alt="Este es mi coche :)" width="50" />
+<img src="Audi.png" alt="Este es mi coche ;)" width="100" />
 
 
 ## Sobre mí
